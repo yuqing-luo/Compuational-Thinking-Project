@@ -8,8 +8,7 @@
 * [Packages](#packages)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
-* [Key Findings](#keyfindings)
+* [Findings](#findings)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
@@ -43,15 +42,10 @@ Here is what the interface looks like.
 ## Setup
 - The project is done by Python. It can be downloaded here: https://www.python.org/downloads/
 - Before running the code, you might need to install the packages I mentioned above.
+- Then you need to import those packages. To import them, please run the code in the first part of each py file.
+  - For exmaple:`import pandas as pd`
 
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Key Findings
+## Findings
 
 The Entertainment category has the largest number of treanding videos in both 2017   and 2018, followed by Music category, How to style, Comedy, People & blog.
 
