@@ -5,13 +5,12 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Features](#features)
+* [Packages](#packages)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
@@ -24,15 +23,19 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+## Packages
+Here is Python Packages we used
+- Tkinter: Create GUI
+- Pandas: Create Dataframe
+- Numpy: Analyze data
+- Matplotlib: Plotting - visualize the data
+- PIL: Image manipulation
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+Here is what the interface looks like.
+
+![screenshot](./img/interface.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -50,7 +53,7 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _complete_
 
 
 ## Room for Improvement
@@ -65,15 +68,8 @@ To do:
 - Feature to be added 2
 
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@yuqing-luo](https://www.linkedin.com/in/yuqing-luo-504211207/) - feel free to contact me!
 
 
 <!-- Optional -->
