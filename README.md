@@ -9,6 +9,7 @@
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
+* [Key Findings](#keyfindings)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
@@ -35,14 +36,13 @@ Here is Python Packages we used
 ## Screenshots
 Here is what the interface looks like.
 
-![screenshot](./img/interface.png)
+![interface screenshot](./img/interface.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+- The project is done by Python. It can be downloaded here: https://www.python.org/downloads/
+- Before running the code, you might need to install the packages I mentioned above.
 
 
 ## Usage
@@ -51,22 +51,30 @@ Provide various use cases and code examples here.
 
 `write-your-code-here`
 
+## Key Findings
+
+The Entertainment category has the largest number of treanding videos in both 2017   and 2018, followed by Music category, How to style, Comedy, People & blog.
+
+![barchart](./img/barchart.png)
+
+Views and Likes have a positive relationship.
+
+![scatterplot](./img/scatterplot.png)
+
 
 ## Project Status
 Project is: _complete_
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+Code:
+- Make the code shorter and more concise
+- Use class to organize the code, which would be more flexible
 
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
+Application Design:
+- Can allow users to see the information from the data
+- Have a list box to show some information about the dataset
 
 ## Contact
 Created by [@yuqing-luo](https://www.linkedin.com/in/yuqing-luo-504211207/) - feel free to contact me!
