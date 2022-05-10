@@ -42,12 +42,12 @@ Here is what the interface looks like.
 ## Setup
 - The project is done by Python. It can be downloaded here: https://www.python.org/downloads/
 - Before running the code, you might need to install the packages I mentioned above.
-- Then you need to import those packages. To import them, please run the code in the first part of each py file.
+- Then you need to import those packages. To import them, please run the code in the first part of each .py file.
   - For exmaple:`import pandas as pd`
 
 ## Findings
 
-The Entertainment category has the largest number of treanding videos in both 2017   and 2018, followed by Music category, How to style, Comedy, People & blog.
+The Entertainment category has the largest number of trending videos in both 2017 and 2018, followed by Music category, How to style, Comedy, People & blog.
 
 ![barchart](./img/barchart.png)
 
